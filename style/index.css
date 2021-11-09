@@ -1,0 +1,8 @@
+@import "header.css";
+@import "section.css";
+@import "techniques.css";
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
