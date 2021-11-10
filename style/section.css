@@ -1,19 +1,31 @@
-.section__subtitle, .section__title{
+.section-subtitle, .section-title{
     width: 60%;
     display: flex;
     justify-content: center;
 }
 
-.section__title{
+.section-title{
     margin: 100px auto 20px;
     font-weight: 700;
     font-size: 60px;
     line-height: 1.15em;
 }
 
-.section__subtitle{
+.section-subtitle{
     margin: 0 auto;
     font-weight: normal;
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.tow-column{
+    margin: 0 260px;
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    grid-column-gap: 100px;
+}
+
+.text{
     font-size: 24px;
     line-height: 34px;
 }

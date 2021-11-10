@@ -1,8 +1,12 @@
 @import "header.css";
 @import "section.css";
 @import "techniques.css";
+@import "video.css";
+@import "oakley.css";
+@import "khan.css";
 
 body{
+    margin: 0;
     font-family: 'Open Sans', sans-serif;
     font-weight: 500;
 }

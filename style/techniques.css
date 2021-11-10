@@ -24,8 +24,9 @@
 
 .cards-item__description, .cards-item__title{
     text-align: center;
+    letter-spacing: -.04em;
 }
-/*todo one line of title*/
+
 .cards-item__title{
     margin: 0 0 16px;
     font-weight: 700;
