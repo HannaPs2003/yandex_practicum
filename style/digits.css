@@ -1,0 +1,12 @@
+.digits__cards{
+    width: 60%;
+    margin: 60px auto 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-column-gap: 30px;
+    grid-row-gap: 80px;
+}
+
+.digits__subtitle{
+    text-align: center;
+}

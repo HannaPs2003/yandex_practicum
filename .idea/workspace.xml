@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66080bac-e366-4bbc-ab47-a5021d5faf3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/style/khan.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/oakley.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/video.css" afterDir="false" />
+    <list default="true" id="66080bac-e366-4bbc-ab47-a5021d5faf3e" name="Default Changelist" comment="feature_practicum// Started kaufman block">
+      <change afterPath="$PROJECT_DIR$/style/cards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/digits.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/feynman.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/kaufmam.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/resources.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/tow-column.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/khan.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/khan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/oakley.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/style/section.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/section.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/techniques.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/techniques.css" afterDir="false" />
     </list>
@@ -55,21 +61,40 @@
       <updated>1636464087818</updated>
       <workItem from="1636464088865" duration="7381000" />
       <workItem from="1636528660523" duration="8960000" />
+      <workItem from="1636568327219" duration="1311000" />
+      <workItem from="1636626574419" duration="17777000" />
     </task>
+    <task id="LOCAL-00001" summary="feature_practicum// Made khan block">
+      <created>1636568434319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636568434319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature_practicum// Made khan block" />
+    <MESSAGE value="feature_practicum// Started kaufman block" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature_practicum// Started kaufman block" />
   </component>
   <component name="WindowStateProjectService">
     <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636464625677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1636464625677" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1636535970712">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636635349057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1636535970712" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636635349057" />
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1636628360547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1636628360547" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1636470654415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -82,5 +107,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636470733518" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1636568445248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1636568445248" />
   </component>
 </project>
