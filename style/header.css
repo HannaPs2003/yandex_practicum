@@ -37,7 +37,7 @@
 }
 
 .header__picture{
-    width: 800px;
+    width: 700px;
     position: absolute;
     z-index: 3;
     right: 0;
@@ -53,4 +53,10 @@
     right: 0;
     background: #2F80ED;
     animation: rotation 20s linear 0s infinite;
+}
+
+@media screen and (max-width: 1200px){
+    .header__picture{
+        display: none;
+    }
 }
