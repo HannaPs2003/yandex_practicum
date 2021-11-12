@@ -26,9 +26,17 @@
 
 .nav-list__item{
     margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.footer__icon{
+    margin-right: 10px;
 }
 
 .nav-list__link{
     text-decoration: none;
     color: #F2F2F2;
+    font-size: 18px;
+    line-height: 23px
 }
