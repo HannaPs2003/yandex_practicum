@@ -4,7 +4,7 @@
 }
 
 .section-subtitle, .section-title{
-    width: 60%;
+    max-width: 60%;
     display: flex;
     justify-content: center;
 }
@@ -22,6 +22,7 @@
     margin: 100px auto 20px;
     font-weight: 700;
     font-size: 60px;
+    text-align: center;
     line-height: 1.15em;
 }
 
@@ -29,6 +30,7 @@
     margin: 0 auto;
     font-weight: normal;
     font-size: 24px;
+    text-align: center;
     line-height: 34px;
 }
 

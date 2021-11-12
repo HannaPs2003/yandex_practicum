@@ -1,8 +1,9 @@
 .tow-column{
-    margin: 0 260px;
+    margin: 0 auto;
+    width: 80%;
     display: grid;
-    grid-template-columns: 1fr 6fr;
-    grid-column-gap: 100px;
+    grid-template-columns: 15% 75%;
+    grid-column-gap: 10%;
 }
 
 .tow-column__title{

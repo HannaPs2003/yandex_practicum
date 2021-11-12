@@ -5,6 +5,10 @@
     position: relative;
     z-index: 1;
 }
+.header__logo{
+    position: relative;
+    z-index: 4;
+}
 
 .header__wrapper{
     margin: 0 auto;
@@ -15,7 +19,7 @@
 .header__container{
     width: min-content;
     position: relative;
-    z-index: 2;
+    z-index: 4;
 }
 
 .header__title{
@@ -35,7 +39,7 @@
 .header__picture{
     width: 800px;
     position: absolute;
-    z-index: 4;
+    z-index: 3;
     right: 0;
     bottom: 0;
 }
@@ -44,7 +48,7 @@
     width: 600px;
     height: 600px;
     position: absolute;
-    z-index: 3;
+    z-index: 2;
     top: 0;
     right: 0;
     background: #2F80ED;

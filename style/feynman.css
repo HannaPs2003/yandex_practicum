@@ -1,10 +1,15 @@
 .feynman{
     padding-top: 100px;
+    position: relative;
     background-color: #F2F2F2;
+    z-index: 1;
+}
+
+.feynman__container{
+
     display: grid;
     grid-template-columns: 1fr 550px 1fr;
-    position: relative;
-    z-index: 1;
+
 }
 
 .feynman__wrapper{

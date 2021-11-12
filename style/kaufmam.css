@@ -16,7 +16,7 @@
 }
 
 .kaufman__cards{
-    width: 60%;
+    max-width: 1150px;
     margin-top: 100px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-column-gap: 20px;
@@ -24,6 +24,8 @@
 }
 
 .kaufman__wrapper{
+    width: 90%;
+    margin: 0 auto;
     position: relative;
     z-index: 3;
 }
@@ -38,5 +40,10 @@
     right: 0;
     z-index: 2;
     animation: rotation 20s linear 0s infinite;
-
  }
+
+@media screen and (max-width: 1200px){
+    .kaufman__cards{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
