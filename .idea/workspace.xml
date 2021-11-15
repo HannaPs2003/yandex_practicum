@@ -1,13 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66080bac-e366-4bbc-ab47-a5021d5faf3e" name="Default Changelist" comment="" />
+    <list default="true" id="66080bac-e366-4bbc-ab47-a5021d5faf3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/cards-attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/cards-competence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/cards-interliving.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/cards-question.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/cards-recall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/khan-book.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo/resources-arzamas.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo/resources-n1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo/resources-polka.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo/resources-strelka.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/section.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/techniques.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectId" id="20gR8sxFHV86BQeNo3dUhZecjYK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yandex_practicum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yandex_practicum" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +74,22 @@
       <recent name="F:\yandex_practicum\sprint-2-sources" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="66080bac-e366-4bbc-ab47-a5021d5faf3e" name="Default Changelist" comment="" />
@@ -34,17 +97,114 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636464087818</updated>
-      <workItem from="1636464088865" duration="6483000" />
+      <workItem from="1636464088865" duration="7381000" />
+      <workItem from="1636528660523" duration="8960000" />
+      <workItem from="1636568327219" duration="1311000" />
+      <workItem from="1636626574419" duration="18052000" />
+      <workItem from="1636714311515" duration="11706000" />
     </task>
+    <task id="LOCAL-00001" summary="feature_practicum// Made khan block">
+      <created>1636568434319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636568434319</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feature_practicum// Made yandex practicum">
+      <created>1636644781816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636644781816</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feature_practicum// Finished footer">
+      <created>1636715290348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636715290348</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feature_practicum// Made initial adaptability">
+      <created>1636724113001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636724113001</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="679000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature_practicum// Made khan block" />
+    <MESSAGE value="feature_practicum// Started kaufman block" />
+    <MESSAGE value="feature_practicum// Made yandex practicum" />
+    <MESSAGE value="feature_practicum// Finished footer" />
+    <MESSAGE value="feature_practicum// Made initial adaptability" />
+    <MESSAGE value="feature_practicum// Made adaptability" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature_practicum// Made adaptability" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636464625677">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1636464625677" />
+    <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser" />
+    <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" />
+    <state x="585" y="88" key="CommitChangelistDialog2" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" />
+    <state x="740" y="261" key="FileChooserDialogImpl" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" />
+    <state x="817" y="417" key="Github.ShareDialog" />
+    <state x="817" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" />
+    <state x="782" y="224" key="Github.UntrackedFilesDialog" />
+    <state x="782" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/style/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/feynman.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
