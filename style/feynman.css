@@ -1,6 +1,5 @@
 .feynman{
     padding-top: 100px;
-    padding-bottom: 400px;
     position: relative;
     background-color: #F2F2F2;
     z-index: 1;
@@ -28,6 +27,7 @@
 }
 
 .feynman__subtitle, .feynman__link{
+    padding-bottom: 400px;
     font-weight: normal;
     font-size: 28px;
     line-height: 34px;
@@ -68,7 +68,7 @@
     .feynman__container{
         display: grid;
         grid-template-columns: 1fr;
-        grid-template-rows: 90% 10%;
+        grid-template-rows: 2fr 3fr;
     }
 
     .feynman__wrapper{
@@ -77,7 +77,12 @@
 
     .feynman__link{
         justify-self: center;
-        align-self: normal;
+        align-self: flex-start;
         margin-right: 0;
     }
+    .feynman__subtitle{
+        padding-bottom: 0;
+    }
+
+
 }
