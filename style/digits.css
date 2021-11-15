@@ -1,0 +1,23 @@
+.digits{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.digits__cards{
+    max-width: 1200px;
+    margin: 60px auto 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-column-gap: 30px;
+    grid-row-gap: 80px;
+}
+
+.digits__subtitle{
+    text-align: center;
+}
+@media screen and (max-width: 992px){
+    .digits__cards{
+        grid-template-columns: 30% 30% 30%;
+        grid-column-gap: 3%;
+    }
+}

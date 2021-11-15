@@ -1,0 +1,27 @@
+.video__list{
+    width: max-content;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    position: relative;
+    top: 50px;
+}
+
+.video__item{
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.video__item:first-child{
+    margin-left: 0;
+}
+
+@media screen and (max-width: 1200px){
+    .video__list{
+        flex-direction: column;
+    }
+    .video__item{
+        margin-left: 0;
+    }
+}
+

@@ -1,0 +1,49 @@
+.kaufman{
+    overflow:hidden;
+    padding: 90px 0 ;
+    position: relative;
+    z-index: 1;
+    color: #F2F2F2;
+    background-color: #1F1F1F;
+}
+
+.kaufman__title{
+    margin-top: 0;
+}
+
+.kaufman__subtitle{
+    text-align: center;
+}
+
+.kaufman__cards{
+    max-width: 1150px;
+    margin-top: 100px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 100px;
+}
+
+.kaufman__wrapper{
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 3;
+}
+
+.kaufman__item-text, .kaufman__item-title{
+    text-align: left;
+}
+
+.kaufman__triangle{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    animation: rotation 20s linear 0s infinite;
+ }
+
+@media screen and (max-width: 1200px){
+    .kaufman__cards{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}

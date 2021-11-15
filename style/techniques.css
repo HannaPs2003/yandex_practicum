@@ -1,0 +1,29 @@
+.techniques{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.techniques__cards{
+    max-width: 920px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 100px;
+}
+
+.cards-item__image{
+    width: 160px;
+    display: block;
+    margin: 60px auto 43px;
+    border-radius: 50%;
+}
+
+.cards-item__description, .cards-item__title{
+    text-align: center;
+    letter-spacing: -.04em;
+}
+
+@media screen and (max-width: 992px){
+    .techniques__cards{
+        grid-template-columns: 48% 48%;
+        grid-column-gap: 2%;
+    }
+}

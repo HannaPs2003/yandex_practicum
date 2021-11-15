@@ -1,0 +1,26 @@
+@import "header.css";
+@import "section.css";
+@import "cards.css";
+@import "techniques.css";
+@import "video.css";
+@import "tow-column.css";
+@import "khan.css";
+@import "kaufmam.css";
+@import "resources.css";
+@import "feynman.css";
+@import "digits.css";
+@import "footer.css";
+
+
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+.content-container{
+    width: 100%;
+    max-width: 1980px;
+    margin: 0 auto;
+    position: relative;
+}

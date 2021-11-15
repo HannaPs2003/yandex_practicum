@@ -1,0 +1,27 @@
+.tow-column{
+    margin: 0 auto;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 15% 75%;
+    grid-column-gap: 10%;
+}
+
+.tow-column__title{
+    color: #2C7EEC;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.oakley{
+    padding-top: 160px;
+    background-color: #F2F2F2;
+}
+
+.description{
+    padding-top: 100px;
+}
+
+.description__text samp{
+    font-weight: 700;
+}
+

@@ -1,0 +1,23 @@
+.cards{
+    margin: 0 auto;
+    padding: 0;
+    display: grid;
+}
+
+.cards-item{
+    list-style-type: none;
+}
+
+.item-title{
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.15em;
+}
+
+.item-text{
+    margin: 16px 0 0;
+    font-size: 18px;
+    line-height: 23px;
+}
+
